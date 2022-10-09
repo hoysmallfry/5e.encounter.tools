@@ -1,15 +1,29 @@
 {
-  "name": "hoy_smallfry-5e-encounter-tools",
+  "name": "hoysmallfry-5e-encounter-tools",
   "title": "5e Encounter Tools for Foundry VTT",
   "description": "Tools for DMs to help make combat a no-brainer.",
-  "authors": [
-      {
-          "name": "Joel Barba [hoy_smallfry#9698]"
-      }
-  ],
   "version": "0.0.1",
   "compatibility": {
     "minimum": "9",
     "verified": "10"
-  }
+  },
+  "scripts": [],
+  "styles": [],
+  "packs": [],
+  "system": [
+    "dnd5e"
+  ],
+  "authors": [
+    {
+      "name": "Joel Barba",
+      "id": "hoy_smallfry#9698",
+      "email": "joel.barba.3@gmail.com"
+    }
+  ],
+  "url": "https://github.com/hoysmallfry/5e.encounter.tools",
+  "manifest": "https://raw.githubusercontent.com/hoysmallfry/5e.encounter.tools/master/manifest.json",
+  "download": "https://raw.githubusercontent.com/hoysmallfry/5e.encounter.tools/master/releases/5e.encounter.tools.latest.zip",
+  "readme": "https://raw.githubusercontent.com/hoysmallfry/5e.encounter.tools/master/releases/README.md",
+  "changelog": "https://raw.githubusercontent.com/hoysmallfry/5e.encounter.tools/master/releases/CHANGELOG.md",
+  "bugs": ""
 }
