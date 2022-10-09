@@ -20,10 +20,5 @@
       "email": "joel.barba.3@gmail.com"
     }
   ],
-  "url": "https://github.com/hoysmallfry/5e.encounter.tools",
-  "manifest": "https://raw.githubusercontent.com/hoysmallfry/5e.encounter.tools/master/manifest.json",
-  "download": "https://raw.githubusercontent.com/hoysmallfry/5e.encounter.tools/master/releases/5e.encounter.tools.latest.zip",
-  "readme": "https://raw.githubusercontent.com/hoysmallfry/5e.encounter.tools/master/releases/README.md",
-  "changelog": "https://raw.githubusercontent.com/hoysmallfry/5e.encounter.tools/master/releases/CHANGELOG.md",
-  "bugs": ""
+  "url": "https://github.com/hoysmallfry/5e.encounter.tools"
 }
