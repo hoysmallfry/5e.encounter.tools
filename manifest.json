@@ -1,0 +1,15 @@
+{
+  "name": "hoy_smallfry-5e-encounter-tools",
+  "title": "5e Encounter Tools for Foundry VTT",
+  "description": "Tools for DMs to help make combat a no-brainer.",
+  "authors": [
+      {
+          "name": "Joel Barba [hoy_smallfry#9698]"
+      }
+  ],
+  "version": "0.0.1",
+  "compatibility": {
+    "minimum": "9",
+    "verified": "10"
+  }
+}
