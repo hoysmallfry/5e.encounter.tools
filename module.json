@@ -10,6 +10,10 @@
   "scripts": [
     "scripts/Hello.js"
   ],
+  "styles": [
+  ],
+  "packs": [
+  ],
   "system": [
     "dnd5e"
   ],
@@ -21,4 +25,6 @@
     }
   ],
   "url": "https://github.com/hoysmallfry/5e.encounter.tools/"
+  "manifest": "https://raw.githubusercontent.com/hoysmallfry/5e.encounter.tools/master/module.json",
+  "bugs": ""
 }
