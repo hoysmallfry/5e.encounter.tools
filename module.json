@@ -26,5 +26,6 @@
   ],
   "url": "https://github.com/hoysmallfry/5e.encounter.tools/"
   "manifest": "https://raw.githubusercontent.com/hoysmallfry/5e.encounter.tools/master/module.json",
+  "download": "https://raw.githubusercontent.com/hoysmallfry/5e.encounter.tools/master/releases/5e.encounter.tools.latest.zip",
   "bugs": ""
 }
