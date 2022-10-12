@@ -24,6 +24,13 @@
 			"email": "joel.barba.3@gmail.com"
 		}
 	],
+	"languages": [
+		{
+			"lang": "en",
+			"name": "English",
+			"path": "languages/en.json"
+		}
+	],
 	"url": "https://github.com/hoysmallfry/5e.encounter.tools/",
 	"manifest": "https://github.com/hoysmallfry/5e.encounter.tools/releases/download/0.0.1rc1/module.json",
 	"download": "https://github.com/hoysmallfry/5e.encounter.tools/archive/refs/tags/0.0.1rc1.zip",
