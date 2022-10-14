@@ -4,6 +4,6 @@ class EncounterTools
 	
 	static log(...args)
 	{
-		console.log(#Name, "|", ...args);
+		console.log(this.#Name, "|", ...args);
 	}
 }

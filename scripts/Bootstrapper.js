@@ -1,13 +1,3 @@
-class EncounterTools
-{
-	const Name = "5e.encounter.tools";
-	
-	static log(...args)
-	{
-		console.log(Name, "|", ...args);
-	}
-}
-
 import { EncounterTools } from "./EncounterTools.js";
 
 Hooks.on("ready", () =>
