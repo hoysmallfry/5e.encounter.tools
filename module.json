@@ -2,13 +2,13 @@
 	"name": "hoysmallfry-5e-encounter-tools",
 	"title": "5e Encounter Tools for Foundry VTT",
 	"description": "Tools for DMs to help make combat a no-brainer.",
-	"version": "0.0.1rc1",
+	"version": "0.0.2a1",
 	"compatibility": {
 		"minimum": "9",
 		"verified": "10"
 	},
 	"scripts": [
-		"scripts/Hello.js"
+		"scripts/Bootstrapper.js"
 	],
 	"styles": [
 	],
@@ -25,7 +25,7 @@
 		}
 	],
 	"url": "https://github.com/hoysmallfry/5e.encounter.tools/",
-	"manifest": "https://github.com/hoysmallfry/5e.encounter.tools/releases/download/0.0.1rc1/module.json",
-	"download": "https://github.com/hoysmallfry/5e.encounter.tools/archive/refs/tags/0.0.1rc1.zip",
+	"manifest": "https://github.com/hoysmallfry/5e.encounter.tools/releases/download/0.0.2a1/module.json",
+	"download": "https://github.com/hoysmallfry/5e.encounter.tools/archive/refs/tags/0.0.2a1.zip",
 	"bugs": ""
 }
